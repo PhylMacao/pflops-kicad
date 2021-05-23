@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pflops-kicad)(type Legacy)(uri ${KIPRJMOD}/library/pflops-kicad.lib)(options "")(descr ""))
+)
